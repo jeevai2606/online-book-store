@@ -1,0 +1,21 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#5B3A29"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="162" r="82" fill="#FFE8B6" fill-opacity="0.15"/>
+  <path d="M200 162V390" stroke="#2E1F17" stroke-width="14" stroke-linecap="round"/>
+  <path d="M200 242C165 218 144 190 136 152" stroke="#2E1F17" stroke-width="10" stroke-linecap="round"/>
+  <path d="M200 220C232 198 258 170 266 136" stroke="#2E1F17" stroke-width="10" stroke-linecap="round"/>
+  <path d="M200 280C164 260 132 257 102 272" stroke="#2E1F17" stroke-width="8" stroke-linecap="round"/>
+  <path d="M200 304C238 292 280 300 314 324" stroke="#2E1F17" stroke-width="8" stroke-linecap="round"/>
+  <path d="M138 198C144 187 161 183 171 190C159 197 149 204 138 198Z" fill="#FDE68A"/>
+  <text x="200" y="90" fill="#FFF7E6" font-family="Georgia, serif" font-size="18" text-anchor="middle" letter-spacing="5">CLASSIC FICTION</text>
+  <text x="200" y="454" fill="#FFF7E6" font-family="Georgia, serif" font-size="40" font-weight="700" text-anchor="middle">TO KILL A</text>
+  <text x="200" y="504" fill="#FDE68A" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle">MOCKINGBIRD</text>
+  <text x="200" y="542" fill="#FFF7E6" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">HARPER LEE</text>
+  <defs>
+    <linearGradient id="bg" x1="56" y1="30" x2="338" y2="562" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9C6644"/>
+      <stop offset="1" stop-color="#6F4518"/>
+    </linearGradient>
+  </defs>
+</svg>

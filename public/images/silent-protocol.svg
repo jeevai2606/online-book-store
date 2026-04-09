@@ -1,0 +1,21 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#020617"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#22D3EE" fill-opacity="0.12"/>
+  
+      <rect x="104" y="132" width="192" height="128" rx="18" fill="#E2E8F0" fill-opacity="0.08" stroke="#22D3EE" stroke-width="4"/>
+      <path d="M126 166H274M126 198H224M126 230H254" stroke="#E2E8F0" stroke-width="8" stroke-linecap="round"/>
+      <path d="M104 332H296" stroke="#22D3EE" stroke-width="10" stroke-linecap="round"/>
+      <path d="M128 332V432M200 332V392M272 332V452" stroke="#22D3EE" stroke-width="10" stroke-linecap="round"/>
+    
+  <text x="200" y="90" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">DYSTOPIAN FICTION</text>
+  <text x="200" y="438" fill="#E2E8F0" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">SILENT</text>
+<text x="200" y="486" fill="#E2E8F0" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">PROTOCOL</text>
+  <text x="200" y="540" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">ELENA CROSS</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+</svg>

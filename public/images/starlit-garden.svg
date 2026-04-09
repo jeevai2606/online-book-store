@@ -1,0 +1,23 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#14532D"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#F9A8D4" fill-opacity="0.12"/>
+  
+      <circle cx="200" cy="154" r="18" fill="#FDF2F8"/>
+      <path d="M200 118V190M164 154H236M174 128L226 180M226 128L174 180" stroke="#F9A8D4" stroke-width="6" stroke-linecap="round"/>
+      <path d="M102 438C126 388 152 356 180 340M298 438C274 388 248 356 220 340" stroke="#FDF2F8" stroke-width="10" stroke-linecap="round"/>
+      <path d="M180 340C156 292 146 264 146 228M220 340C244 292 254 264 254 228" stroke="#166534" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="146" cy="228" r="18" fill="#F9A8D4"/>
+      <circle cx="254" cy="228" r="18" fill="#F9A8D4"/>
+    
+  <text x="200" y="90" fill="#FDF2F8" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">ROMANCE</text>
+  <text x="200" y="438" fill="#FDF2F8" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">STARLIT</text>
+<text x="200" y="486" fill="#FDF2F8" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">GARDEN</text>
+  <text x="200" y="540" fill="#FDF2F8" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">LENA MOORE</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#166534"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+  </defs>
+</svg>

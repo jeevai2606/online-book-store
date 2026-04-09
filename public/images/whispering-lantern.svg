@@ -1,0 +1,22 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#111827"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#F59E0B" fill-opacity="0.12"/>
+  
+      <path d="M200 124V168" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+      <rect x="154" y="168" width="92" height="144" rx="22" fill="#F59E0B" fill-opacity="0.18" stroke="#FFFBEB" stroke-width="8"/>
+      <path d="M170 204H230M170 238H230M170 272H230" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+      <path d="M148 332C166 304 182 292 200 292C218 292 234 304 252 332" stroke="#F59E0B" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="200" cy="240" r="24" fill="#FDE68A" fill-opacity="0.42"/>
+    
+  <text x="200" y="90" fill="#FFFBEB" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">MYSTERY</text>
+  <text x="200" y="438" fill="#FFFBEB" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">WHISPERING</text>
+<text x="200" y="486" fill="#FFFBEB" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">LANTERN</text>
+  <text x="200" y="540" fill="#FFFBEB" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">NINA FROST</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F2937"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#0B132B"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="180" r="82" fill="#F4D35E" fill-opacity="0.16"/>
+  <path d="M82 468C125 391 184 352 202 352C220 352 279 391 322 468" stroke="#F4D35E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M135 324L200 196L265 324" stroke="#FAF0CA" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="174" r="24" fill="#FAF0CA"/>
+  <text x="200" y="86" fill="#FAF0CA" font-family="Georgia, serif" font-size="18" text-anchor="middle" letter-spacing="5">CLASSIC FICTION</text>
+  <text x="200" y="438" fill="#FAF0CA" font-family="Georgia, serif" font-size="42" font-weight="700" text-anchor="middle">THE GREAT</text>
+  <text x="200" y="486" fill="#F4D35E" font-family="Georgia, serif" font-size="54" font-weight="700" text-anchor="middle">GATSBY</text>
+  <text x="200" y="532" fill="#FAF0CA" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">F. SCOTT FITZGERALD</text>
+  <defs>
+    <linearGradient id="bg" x1="44" y1="36" x2="342" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102A43"/>
+      <stop offset="1" stop-color="#1F2041"/>
+    </linearGradient>
+  </defs>
+</svg>

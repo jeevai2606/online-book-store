@@ -1,0 +1,22 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#111827"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#D4AF37" fill-opacity="0.12"/>
+  
+      <rect x="114" y="114" width="172" height="234" rx="14" fill="none" stroke="#D4AF37" stroke-width="10"/>
+      <rect x="136" y="136" width="128" height="190" rx="10" fill="#F9FAFB" fill-opacity="0.12"/>
+      <path d="M154 292C176 260 188 252 200 252C212 252 224 260 246 292" stroke="#F9FAFB" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="200" cy="222" r="24" fill="#F9FAFB"/>
+      <path d="M120 110L282 350" stroke="#D4AF37" stroke-width="8" stroke-linecap="round" opacity="0.75"/>
+    
+  <text x="200" y="90" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">CLASSIC FICTION</text>
+  <text x="200" y="438" fill="#F9FAFB" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">VANISHED</text>
+<text x="200" y="486" fill="#F9FAFB" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">PORTRAIT</text>
+  <text x="200" y="540" fill="#F9FAFB" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">NOAH WHITMAN</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4B5563"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>

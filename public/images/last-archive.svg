@@ -1,0 +1,21 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#172554"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#93C5FD" fill-opacity="0.12"/>
+  
+      <rect x="88" y="158" width="224" height="230" rx="18" fill="#EFF6FF" fill-opacity="0.08" stroke="#93C5FD" stroke-width="4"/>
+      <path d="M122 198H278M122 244H278M122 290H278M122 336H278" stroke="#EFF6FF" stroke-width="8" stroke-linecap="round"/>
+      <path d="M148 176V370M200 176V370M252 176V370" stroke="#93C5FD" stroke-width="6"/>
+      <circle cx="200" cy="122" r="28" fill="#93C5FD" fill-opacity="0.24"/>
+    
+  <text x="200" y="90" fill="#EFF6FF" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">DYSTOPIAN FICTION</text>
+  <text x="200" y="438" fill="#EFF6FF" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">LAST</text>
+<text x="200" y="486" fill="#EFF6FF" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">ARCHIVE</text>
+  <text x="200" y="540" fill="#EFF6FF" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">JONAH PIKE</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+  </defs>
+</svg>

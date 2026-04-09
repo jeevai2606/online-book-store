@@ -1,0 +1,20 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#161A1D"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="202" r="92" fill="#EF4444" fill-opacity="0.16"/>
+  <circle cx="200" cy="202" r="64" fill="#F8FAFC"/>
+  <circle cx="200" cy="202" r="28" fill="#111827"/>
+  <circle cx="212" cy="190" r="10" fill="#F8FAFC"/>
+  <path d="M130 324C156 303 180 294 200 294C220 294 244 303 270 324" stroke="#E5E7EB" stroke-width="10" stroke-linecap="round"/>
+  <path d="M108 140L292 140" stroke="#991B1B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M108 476L292 476" stroke="#991B1B" stroke-width="10" stroke-linecap="round"/>
+  <text x="200" y="96" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="5">DYSTOPIAN FICTION</text>
+  <text x="200" y="444" fill="#F8FAFC" font-family="Arial Black, Arial, sans-serif" font-size="88" font-weight="900" text-anchor="middle">1984</text>
+  <text x="200" y="522" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" letter-spacing="4">GEORGE ORWELL</text>
+  <defs>
+    <linearGradient id="bg" x1="52" y1="28" x2="344" y2="566" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B2D42"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>

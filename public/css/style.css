@@ -1,0 +1,213 @@
+body {
+    background: linear-gradient(180deg, #f6f1e8 0%, #ffffff 40%, #f3f5f7 100%);
+    color: #1f2933;
+}
+
+.navbar-brand,
+.display-4,
+.display-5,
+.display-6,
+.card-title {
+    font-weight: 700;
+}
+
+.book-card,
+.info-card,
+.detail-panel,
+.hero-panel,
+.book-cover-panel {
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.08);
+}
+
+.book-card {
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 22px 42px rgba(15, 23, 42, 0.14);
+}
+
+.cart-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+}
+
+.nav-action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    border: 0;
+    background: transparent;
+    color: rgba(255, 255, 255, 0.85);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-decoration: none;
+}
+
+.nav-action-btn:hover,
+.nav-action-btn:focus {
+    color: #ffffff;
+}
+
+.login-btn {
+    font-weight: 600;
+}
+
+.user-greeting {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+}
+
+.logout-form {
+    margin: 0;
+}
+
+.cart-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.5rem;
+    height: 1.5rem;
+    padding: 0 0.35rem;
+    border-radius: 999px;
+    background: #f59e0b;
+    color: #111827;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.hero-panel,
+.detail-panel,
+.info-card,
+.book-cover-panel,
+.filter-panel,
+.reader-panel {
+    padding: 1.5rem;
+}
+
+.filter-panel,
+.reader-panel {
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.94);
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.05);
+}
+
+.genre-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.genre-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.55rem 0.9rem;
+    border-radius: 999px;
+    background: rgba(255, 247, 237, 0.95);
+    color: #9a3412;
+    font-weight: 600;
+}
+
+.filter-check {
+    margin-top: 2rem;
+}
+
+.section-eyebrow {
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #b45309;
+}
+
+.book-description {
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.price-panel {
+    display: inline-block;
+    padding: 1rem 1.25rem;
+    border-radius: 0.9rem;
+    background: #fff7ed;
+}
+
+.price-label {
+    display: block;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #9a3412;
+}
+
+.price-value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #c2410c;
+}
+
+.reader-panel p {
+    font-size: 1.06rem;
+    line-height: 1.9;
+    margin-bottom: 1.2rem;
+}
+
+footer {
+    margin-top: 4rem;
+}
+
+.title-cover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.85rem;
+    min-height: 100%;
+    padding: 1.5rem;
+    border-radius: 1rem 1rem 0 0;
+    background:
+        radial-gradient(circle at top, rgba(255, 255, 255, 0.2), transparent 42%),
+        linear-gradient(160deg, #1f2937 0%, #0f172a 100%);
+    color: #f8fafc;
+    text-align: center;
+}
+
+.title-cover-card {
+    min-height: 320px;
+}
+
+.title-cover-detail {
+    min-height: 420px;
+    border-radius: 1rem;
+}
+
+.title-cover-genre {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: #fdba74;
+}
+
+.title-cover-name {
+    margin: 0;
+    font-family: Georgia, serif;
+    font-size: clamp(1.8rem, 3vw, 2.6rem);
+    line-height: 1.15;
+}
+
+.title-cover-author {
+    margin: 0;
+    font-size: 0.95rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(248, 250, 252, 0.82);
+}

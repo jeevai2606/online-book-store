@@ -1,0 +1,22 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#172033"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="156" r="96" fill="#14B8A6" fill-opacity="0.12"/>
+  
+      <rect x="112" y="164" width="176" height="228" rx="18" fill="#ECFEFF" fill-opacity="0.08" stroke="#14B8A6" stroke-width="6"/>
+      <path d="M112 220H288" stroke="#14B8A6" stroke-width="8" stroke-linecap="round"/>
+      <path d="M156 164V134H244V164" stroke="#ECFEFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M158 284C174 264 188 256 200 256C212 256 226 264 242 284" stroke="#ECFEFF" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="200" cy="232" r="20" fill="#14B8A6"/>
+    
+  <text x="200" y="90" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="4">MYSTERY</text>
+  <text x="200" y="438" fill="#ECFEFF" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">HOLLOW</text>
+<text x="200" y="486" fill="#ECFEFF" font-family="Georgia, serif" font-size="46" font-weight="700" text-anchor="middle" letter-spacing="2">CASE</text>
+  <text x="200" y="540" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">MASON WARD</text>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="40" x2="352" y2="568" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" rx="28" fill="#111827"/>
+  <rect x="24" y="24" width="352" height="552" rx="22" fill="url(#bg)"/>
+  <circle cx="200" cy="172" r="84" fill="#C084FC" fill-opacity="0.12"/>
+  <path d="M138 312C138 276 166 246 200 246C234 246 262 276 262 312V356H138V312Z" fill="#E5E7EB"/>
+  <circle cx="200" cy="210" r="38" fill="#E5E7EB"/>
+  <path d="M160 210C160 188 178 170 200 170C222 170 240 188 240 210" stroke="#4C1D95" stroke-width="10" stroke-linecap="round"/>
+  <path d="M118 390C154 356 182 344 200 344C218 344 246 356 282 390" stroke="#A78BFA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M120 138L280 138" stroke="#A78BFA" stroke-width="8" stroke-linecap="round"/>
+  <text x="200" y="92" fill="#F3F4F6" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" letter-spacing="5">MYSTERY</text>
+  <text x="200" y="456" fill="#F9FAFB" font-family="Georgia, serif" font-size="48" font-weight="700" text-anchor="middle">THE FINAL</text>
+  <text x="200" y="510" fill="#C4B5FD" font-family="Georgia, serif" font-size="54" font-weight="700" text-anchor="middle">CLUE</text>
+  <text x="200" y="546" fill="#F3F4F6" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" letter-spacing="3">MYSTERY COLLECTION</text>
+  <defs>
+    <linearGradient id="bg" x1="52" y1="26" x2="344" y2="570" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#312E81"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+  </defs>
+</svg>
